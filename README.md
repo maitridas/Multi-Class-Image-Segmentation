@@ -1,17 +1,13 @@
-﻿# Multi-Class-Image-Segmentation-
+# Multi-Class-Image-Segmentation-
 
 ## Implementation of the UNET model
 ```
 https://github.com/maitridas/ModelCluster/tree/main/UNET
 ```
 
-## Install the dependencies
-```
-pip install -r requirements.txt
-```
-
 ## Take a look at the dataset
-Note:- Any dataset can be used the code is written like that but you have to follow a file structure
+Note:- Any dataset can be used
+Please follow this folder structure
 
 ```
 |-----train_val

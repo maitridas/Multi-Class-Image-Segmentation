@@ -36,4 +36,4 @@ As I don't have access to the harware to train such a large model, I trained the
 
 ## Shortcomings
 
-Because I trained on less images, this model might not give accurate images as there will be class imbalance problem
+Because I trained on less images, this model might not give accurate masks as there will be class imbalance problem
